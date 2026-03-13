@@ -90,7 +90,3 @@ In addition to the above requirements, for [Ultralytics](https://ultralytics.com
 - ✅ **Unmodified** – Your problem must be reproducible without any modifications to the codebase in this repository. [Ultralytics](https://ultralytics.com/) does not provide support for custom code ⚠️.
 
 If you believe your problem meets all of the above criteria, please close this issue and raise a new one using the 🐛 **Bug Report** [template](https://github.com/ultralytics/ultralytics/issues/new/choose) and providing a [minimum reproducible example](https://docs.ultralytics.com/help/minimum_reproducible_example/) to help us better understand and diagnose your problem.
-
-## License
-
-By contributing, you agree that your contributions will be licensed under the [AGPL-3.0 license](https://choosealicense.com/licenses/agpl-3.0/)
